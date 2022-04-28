@@ -1,0 +1,15 @@
+{
+  "name": "pruebanodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Carrillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0",
+    "puppeteer": "^13.7.0"
+  }
+}
